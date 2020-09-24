@@ -10,13 +10,10 @@ This python analytics project analyzes the FIFA dataset to predict World's Best 
 
 ## General info
 
-This report will be targeted to people who are looking to relocate to London. Inorder to finalise a neighborhood to hunt for an apartment, safety is considered as a top concern when moving to a new place. If you don’t feel safe in your own home, you’re not going to be able to enjoy living there. The crime statistics will provide an insight into this issue.
+Once in every 4 years, we celebrate FIFA World Cup. All priorities change to footbaall, and all predications change to the teams and players that perform in the tournament.
+So, it is quite exciting to "Predict the World's Best XI players" in FIFA 2018 using Python for Data Analysis.
 
-Preprocessed a real world data set from Kaggle showing the London Crimes from 2008 to 2016
-
-URL: https://www.kaggle.com/jboysen/london-crime
-
-Kindly refer to the pdf report [here](https://github.com/pranshu1921/Coursera_Capstone/blob/master/Capstone%20Project%20-%20Report.pdf) for complete explanation.
+Refer to the Jupyter notebook for complete analysis.
 
 ## Setup
 
@@ -33,7 +30,7 @@ Kindly refer to the pdf report [here](https://github.com/pranshu1921/Coursera_Ca
 Project is: Finished
 
 ## Inspiration
-This project was part of the learning process for the IBM Applied Data Science Professional Certificate on [Coursera.com](https://www.coursera.com/)
+This project was the main projectwork for the summer internship at Intel(Remote), India in the duration of  May 2018 - August 2018.
 
 ## Contact
-Feel free to contact me, send a mail to **pranshu1921@gmail.com**
+Feel free to contact me, send a email to **pranshu1921@gmail.com**
